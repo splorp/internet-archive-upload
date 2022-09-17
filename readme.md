@@ -21,14 +21,14 @@ Bits and bytes and scans, oh my!
 
 ## Metadata Fields
 
-+ Page Title *Title of the Page
-+ Page URL *https://archive.org/details/xxxxx
-+ Description *Add a description of the item page
-+ Subject Tags *Add keywords, separated by commas
-+ Creator Creator of the content
-+ Date Date work was created/published
-+ Collection *Community image
-+ Test Item No
-+ Language Language of the work
-+ License No license selected
-+ More Options Add additional metadata using key:value pairs
++ Page Title — Title of the Page
++ Page URL — https://archive.org/details/xxxxx
++ Description — Add a description of the item page
++ Subject Tags — Add keywords, separated by commas
++ Creator — Creator of the content
++ Date — Date work was created/published
++ Collection — Community image
++ Test Item — No
++ Language — Language of the work
++ License — No license selected
++ More Options — Add additional metadata using `key:value pairs`
